@@ -1,5 +1,5 @@
 
-/* 6. Write a program to display grade according to the marks obtained by the student. */
+/* Write a program to display grade according to the marks obtained by the student. */
 import java.util.Scanner;
 
 public class GradeSheet {
